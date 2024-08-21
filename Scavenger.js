@@ -63,8 +63,10 @@ function showStartScreen() {
         <div class="startScreen">
             <h1 id="introduction">HAPPY BIRTHDAY BOO! 
                 <br>
-                I'm sorry I'm not there to celebrate it with you... In my absence, I've arranged for a little scavenger hunt for you to do. It should take 
-                about 2 hours to complete on foot. You will need only your phone!
+                I'm sorry I'm not there to celebrate it with you... In my absence, I've arranged for a little scavenger hunt for you to do. Which was 
+                TOTALLY NOT INSPIRED BY THE MOLE.
+                <br>
+                It should take about 2 hours to complete on foot. You will need only your phone!
                 <br>
                 Ready to get started?
             </h1>
